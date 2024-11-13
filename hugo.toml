@@ -1,0 +1,50 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Seattle Novelty Vending'
+theme = 'osprey'
+
+[Params]
+  tagline = "Seattle Novelty Vending"
+  author = "Jinai A"
+  description = "Vending machines business located in Seattle, WA"
+  logoBig = "/images/claw_machine_new.png"
+  logoSmall = "/images/claw_machine_new.png"
+  favicon = "favicon.ico"
+  opengraphImage = "/images/osprey.png"
+  email = ""
+  googleTagManger = ""
+  customCSS = false
+
+  # Copyright and theme author credit in footer
+  copyright = true
+  credit = false
+
+  # Cache busting of static resources (additional set up required)
+  cacheBustCSS = false
+  cacheBustJS = false
+
+  # Code highlighting with highlight.js
+  highlightJS = true
+  highlightJSStyle = "" # For custom highlight.js styles, add your /path/to/styles/default.css
+  highlightJSScript = "" # For custom highlight.js languages config, add your /path/to/highlight.pack.js
+
+  # Choose either Formspree contact form or Basin contact form
+  ajaxFormspree = false
+  ajaxFormspreeGold = false
+  ajaxBasin = "https://usebasin.com/f/efcf654aec5f"
+
+  # Lazy loading with lazysizes
+  lazyloading = true
+
+[[menu.main]]
+  name = "About"
+  url  = "/#about"
+  weight = 1
+[[menu.main]]
+  name = "Products"
+  url  = "/#work"
+  weight = 2
+[[menu.main]]
+  name = "Contact"
+  url  = "/#contact"
+  weight = 4
