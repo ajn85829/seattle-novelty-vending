@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Seattle Novelty Vending</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/seattle-novelty-vending/</link>
     <description>Recent content on Seattle Novelty Vending</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 12 Nov 2024 21:00:00 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/seattle-novelty-vending/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bubble Bikes</title>
-      <link>http://localhost:1313/gallery/paopao-bikes/</link>
+      <link>http://localhost:1313/seattle-novelty-vending/gallery/paopao-bikes/</link>
       <pubDate>Tue, 12 Nov 2024 21:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/gallery/paopao-bikes/</guid>
+      <guid>http://localhost:1313/seattle-novelty-vending/gallery/paopao-bikes/</guid>
       <description></description>
     </item>
     <item>
       <title>Claw Machines</title>
-      <link>http://localhost:1313/gallery/claw-machine/</link>
+      <link>http://localhost:1313/seattle-novelty-vending/gallery/claw-machine/</link>
       <pubDate>Tue, 12 Nov 2024 21:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/gallery/claw-machine/</guid>
+      <guid>http://localhost:1313/seattle-novelty-vending/gallery/claw-machine/</guid>
       <description>&lt;p&gt;Share in the fun and profits by hosting a Seattle Novelty Vending&amp;rsquo;s claw machines at your business&lt;/p&gt;</description>
     </item>
     <item>
       <title>Seattle Novelty Vending</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:1313/seattle-novelty-vending/about/</link>
       <pubDate>Sat, 09 Nov 2024 17:39:21 -0700</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://localhost:1313/seattle-novelty-vending/about/</guid>
       <description>&lt;p&gt;We are passionate about providing high-quality claw vending machines for businesses and entertainment venues. Our goal is to offer a fun and engaging experience for players of all ages.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-choose-us&#34;&gt;Why Choose Us?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;High-Quality Machines&lt;/strong&gt;: We invest in durable and reliable machines that ensure a smooth experience for players.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Diverse Prizes&lt;/strong&gt;: Our claw vending machines feature a wide range of exciting prizes, from plush toys to electronics.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Customer Satisfaction&lt;/strong&gt;: We pride ourselves on excellent customer service and timely maintenance for all our machines.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;our-mission&#34;&gt;Our Mission&lt;/h2&gt;&#xA;&lt;p&gt;Our mission is to create memorable experiences with every game. Whether you&amp;rsquo;re at a mall, arcade, or other entertainment venue, our claw vending machines are designed to offer fun and excitement to everyone.&lt;/p&gt;</description>
     </item>
   </channel>
