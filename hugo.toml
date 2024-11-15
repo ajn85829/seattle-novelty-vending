@@ -1,4 +1,4 @@
-baseURL = 'https://ajn85829.github.io/seattle-novelty-vending/'
+baseURL = 'https://www.seattlenoveltyvending.com/'
 languageCode = 'en-us'
 title = 'Seattle Novelty Vending'
 theme = 'osprey'
@@ -7,8 +7,8 @@ theme = 'osprey'
   tagline = "Seattle Novelty Vending"
   author = "Jinai A"
   description = "Vending machines business located in Seattle, WA"
-  logoBig = "https://ajn85829.github.io/seattle-novelty-vending/images/claw_machine_new.png"
-  logoSmall = "https://ajn85829.github.io/seattle-novelty-vending/images/claw_machine_new.png"
+  logoBig = "https://www.seattlenoveltyvending.com/images/claw_machine_new.png"
+  logoSmall = "https://www.seattlenoveltyvending.com/images/claw_machine_new.png"
   favicon = "favicon.ico"
   opengraphImage = "/images/claw_machine_new.png"
   email = ""
