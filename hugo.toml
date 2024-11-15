@@ -15,6 +15,9 @@ theme = 'osprey'
   googleTagManger = ""
   customCSS = false
 
+  # Social media links in footer
+  instagram = "seattlenoveltyvending"
+
   # Copyright and theme author credit in footer
   copyright = true
   credit = false
