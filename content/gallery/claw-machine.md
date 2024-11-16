@@ -4,8 +4,7 @@ title = "Claw Machines"
 image = "claw_machine.png"
 alt = "Share in the fun and profits"
 color = "#60d2d3"
-link1 = "http://gohugo.io/"
-link2 = "https://github.com/spf13/hugo"
+link1 = "https://drive.google.com/drive/folders/1RwOb9RKnLlavfm0PWnkqp40dCMM0TzOL?usp=sharing"
 
 +++
 
