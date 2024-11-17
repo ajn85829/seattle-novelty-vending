@@ -6,14 +6,15 @@ draft = false
 
 We are passionate about providing high-quality claw vending machines for businesses and entertainment venues. Our goal is to offer a fun and engaging experience for players of all ages.
 
-## Why Choose Us?
+## About the opportunity
 
-- **High-Quality Machines**: We invest in durable and reliable machines that ensure a smooth experience for players.
-- **Diverse Prizes**: Our claw vending machines feature a wide range of exciting prizes, from plush toys to electronics.
-- **Customer Satisfaction**: We pride ourselves on excellent customer service and timely maintenance for all our machines.
+Add a new revenue stream with no upfront cost by hosting a claw machine in your store! We handle all setup, maintenance, and restocking, turning unused space into profits. Claw machines drive customer engagement, encourage impulse plays, and bring repeat visits. Partner with us for a hassle-free way to increase foot traffic and share in the earnings!
 
-## Our Mission
+## Why choose us?
 
-Our mission is to create memorable experiences with every game. Whether you're at a mall, arcade, or other entertainment venue, our claw vending machines are designed to offer fun and excitement to everyone.
+- **No operation hassle**: We manage all machine setup, maintenance, and restocking, so you can focus on your business without added work.
+- **Revenue share**: Enjoy a steady income boost by sharing in the profits generated, with transparent earnings reports and reliable payouts.
+- **Big fun, tiny footprint**: The claw machine takes up minimal space in your store, with a base footprint of just 14 inches wide by 13 inches deep—smaller than four standard floor tiles. It fits comfortably in any corner without disrupting your layout.
+- **Low Energy, High Returns**: The claw machine is as efficient as it is entertaining, consuming only 24W on standby and a maximum of 72W during play. Running it for 12 hours a day costs less than 4 cents daily— about $1.14 per month.
 
 Thank you for visiting our website, and we look forward to bringing our machines to your location!
