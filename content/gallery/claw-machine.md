@@ -4,7 +4,7 @@ title = "Claw Machines"
 image = "claw_machine.png"
 alt = "Share in the fun and profits"
 color = "#60d2d3"
-link1 = "https://drive.google.com/file/d/1kj2BWYDFSYJyqmRSbJ9S_GM1FjbMTMd3/view?usp=sharing"
+link1 = "https://drive.google.com/file/d/1O4P4I7_eV2g_ridJo1TlPZKO5JINj4EB/view?usp=sharing"
 
 +++
 
